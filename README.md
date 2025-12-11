@@ -3,9 +3,9 @@
 ![App Logo](my_dividend_logo.png)
 
 ## 📖 About the Application
-**MyDividend** is a native Android mobile application designed to help investors calculate the potential returns on their unit trust investments. [cite_start]This app was developed as an individual assignment for the **ICT602 (Mobile Technology and Development)** course[cite: 1, 5].
+[cite_start]**MyDividend** is a native Android mobile application designed to help investors calculate the potential returns on their unit trust investments[cite: 5]. [cite_start]This app was developed as an individual assignment for the **ICT602 (Mobile Technology and Development)** course[cite: 1, 34].
 
-[cite_start]It provides a simple, user-friendly interface to input investment details and automatically computes the total dividend yield based on monthly calculations, ensuring precise financial planning for users[cite: 3, 8].
+It provides a simple, user-friendly interface to input investment details and automatically computes the total dividend yield based on monthly calculations, ensuring precise financial planning for users.
 
 ## 👨‍🎓 Student Information
 * [cite_start]**Name:** AHMAD FIRDAUS BIN MOHD KHALID [cite: 19]
@@ -28,8 +28,8 @@ This application meets the following assignment requirements:
   * [cite_start]Displays the final result formatted clearly to **two decimal places** (e.g., RM 2500.00)[cite: 11].
 * **Navigation & UI:**
   * [cite_start]Features a responsive "Mobile First" design[cite: 24].
-  * [cite_start]Includes a navigation menu (Home & About)[cite: 14].
-  * [cite_start]**About Page** contains the app icon, author details, copyright notice, and a clickable link to this GitHub repository[cite: 17, 21].
+  * [cite_start]Includes a navigation menu (Home & About)[cite: 14, 15, 16].
+  * [cite_start]**About Page** contains the app icon, author details, copyright notice, and a clickable link to this GitHub repository[cite: 17, 18, 19, 20, 21].
 
 ## 📸 App Screenshots
 
@@ -37,22 +37,19 @@ This application meets the following assignment requirements:
 |:---:|:---:|:---:|
 | ![Home Screen](screenshot1.png) | ![Result](screenshot2.png) | ![About Page](screenshot3.png) |
 
-## 🛠️ Requirements to Use App
-To run or edit this project, ensure you meet the following technical requirements:
+## 📱 Application Requirements
+[cite_start]To successfully install and run this application, your device must meet the following specifications[cite: 24]:
 
-* [cite_start]**Development Environment:** Android Studio (Narwhal or later recommended)[cite: 23].
-* **Language:** Java.
-* **Minimum SDK:** API 24 (Android 7.0).
-* **Device:** Android Emulator or Physical Android Device.
+* **Operating System:** Android 7.0 (Nougat) or higher (API Level 24+).
+* [cite_start]**Device Type:** Compatible with Android Smartphones and Tablets[cite: 24].
+* **Storage Space:** Approximately 10MB of free space.
+* **Orientation:** Optimized for Portrait mode.
 
-### How to Run:
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/AhmdFir/MyDividend.git](https://github.com/AhmdFir/MyDividend.git)
-    ```
-2.  **Open in Android Studio:** Select "Open" and navigate to the cloned folder.
-3.  **Build:** Wait for Gradle to sync the project.
-4.  **Run:** Press the green "Run" arrow to launch the app on your device.
+### Installation Guide (APK)
+1.  [cite_start]Download the `.apk` file from the releases section (or build output)[cite: 27].
+2.  Enable "Install from Unknown Sources" in your device settings if required.
+3.  Open the file and tap **Install**.
+4.  Launch **MyDividend** from your app drawer.
 
 ---
-© 2025 Ahmad Firdaus. [cite_start]All Rights Reserved. [cite: 20]
+© 2025 Ahmad Firdaus. [cite_start]All Rights Reserved[cite: 20].
